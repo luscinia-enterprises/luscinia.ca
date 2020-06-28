@@ -1,7 +1,7 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
 baseURL = "https://luscinia.ca/"
-languageCode = "en-AU"
+languageCode = "en-CA"
 title = "Luscinia"
 
 # Metadata
@@ -206,7 +206,7 @@ title = "Luscinia"
 
 # Contact section
 [params.contact]
-  enable = false
+  enable = true
   title = "Get In Touch"
   message = "Contact us if you have any questions or would like to sponsor our work."
   name_placeholder = "Your name"
