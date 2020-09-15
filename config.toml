@@ -7,7 +7,7 @@ title = "Luscinia"
 # Metadata
 [params]
   author = "Luscinia Enterprises Assn."
-  description = "Luscinia is a Registered B.C. nonprofit under the Societies Act"
+  description = "Luscinia is a B.C. registered nonprofit organisation under the Societies Act"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
@@ -150,45 +150,39 @@ title = "Luscinia"
 
   [[params.team.item]]
     name = "Milan Bumbulovic"
-    position = "Chief Executive Officer"
+    position = "President & CEO"
     description = "Currently studying at McGill Univeristy, Milan contributes to the web design and resources work for Aristotle."
     #img = "images/person1.jpg"
     email = "mbumbulovic@luscinia.ca"
-    facebook = "https://www.facebook.com/people/Milan-Bumbulovic/100009558724897"
-    instagram = "https://www.instagram.com/milanbumbulovic/"
     github = "https://github.com/milanbumbulovic"
 
   [[params.team.item]]
     name = "Varun Patel"
-    position = "Chief Operating Officer"
+    position = "Chair of the Board of Directors and CTO"
     description = "Currently studying at UBC, Varun works on the full stack of applications maintaining Luscinia's internet presence."
     #img = "images/person2.jpg"
     email = "vpatel@luscinia.ca"
-    facebook = "https://www.facebook.com/varun.patel01"
-    instagram = "https://www.instagram.com/_varunpatel_/"
     github = "https://github.com/varun-patel"
 
   [[params.team.item]]
     name = "Jacob Chun"
-    position = "Chief Financial Officer"
+    position = "Treasurer and CFO"
     description = "Currently studying at Western University, Jacob handles finances and the processing of payments from users."
     #img = "images/person3.jpg"
     email = "jchun@luscinia.ca"
-    facebook = "https://www.facebook.com/jacob.chun.54"
-    instagram = "https://www.instagram.com/jacob.chun/"
+    github = "https:github.com/jacobchh"
     
   [[params.team.item]]
     name = "Adam Garay"
-    position = "Research and Sales"
+    position = "Vice-Chair of the Board of Directors"
     description = "Currently studying at McGill University, Adam works on creating detailed learning resources and helps with sales."
     #img = "images/person2.jpg"
     email = "agaray@luscinia.ca"
-    facebook = "https://www.facebook.com/kingdomadamalia"
-    instagram = "https://www.instagram.com/adam.garay/"
+    github = "https://github.com/adamgaray"
     
   [[params.team.item]]
     name = "Jack McColl"
-    position = "Program Development"
+    position = "Director"
     description = "Currently studying at UBC, Jack assists with managing projects and creating learning resources for users."
     #img = "images/person3.jpg"
     email = "jmccoll@luscinia.ca"
@@ -197,12 +191,39 @@ title = "Luscinia"
     
   [[params.team.item]]
     name = "Brandon Krezeski"
-    position = "Public Relations"
+    position = "Secretary"
     description = "Currently studying at McGill University, Brandon works on resources and in the off time, manages company sites."
     #img = "images/person1.jpg"
     email = "bkrezeski@luscinia.ca"
     facebook = "https://www.facebook.com/brandon.krezeski11"
     instagram = "https://www.instagram.com/brandon_krz/"
+    
+  [[params.team.item]]
+    name = "Jerry Xu"
+    position = "Software Developer"
+    description = "Currently studying at UBC, Jerry leverages powerful technologies to create ML experiences for users and our company."
+    #img = "images/person1.jpg"
+    email = "jxu@aristotle.luscinia.ca"
+    github = "https://github.com/jerryxu99"
+
+    
+  [[params.team.item]]
+    name = "Andrew Huang"
+    position = "Director"
+    description = "Currently studying at UBC, Andrew leads front-end development of our web services and ensures that our user experience is at it's best."
+    #img = "images/person1.jpg"
+    email = "ahuang@luscinia.ca"
+    github = "https://github.com/thepupomaster"
+
+    
+  [[params.team.item]]
+    name = "Richard Zhang"
+    position = "Software Developer"
+    description = "Currently studying at SFU, Richard helps the team create interactive user experiences by creatin javascript as well as handles administrative funcitons."
+    #img = "images/person1.jpg"
+    email = "rzhang@aristotle.luscinia.ca"
+    github = "https://github.com/richboy12345"
+
 
 # Contact section
 [params.contact]
