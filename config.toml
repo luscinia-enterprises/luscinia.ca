@@ -1,4 +1,4 @@
-baseURL = "https://luscinia.ca"
+baseURL = "https://luscinia-newsite.netlify.app"
 languageCode = "en-CA"
 title = "Luscinia Enterprises"
 theme = "hugo-fresh"
