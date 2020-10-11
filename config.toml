@@ -1,0 +1,145 @@
+baseURL = "https://luscinia.ca"
+languageCode = "en-CA"
+title = "Luscinia Enterprises"
+theme = "hugo-fresh"
+googleAnalytics = "UA-125101127-4"
+disableKinds = [
+  "taxonomy",
+  "taxonomyTerm"
+]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = false
+
+[params]
+openGraph = true
+description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the Societies Act. Luscinia aims to provide enhanced access to education technologies"
+
+  [params.navbarlogo]
+  image = "logos/lea-dark.png"
+  link = "/"
+
+  [params.font]
+  name = "Open Sans"
+  sizes = [
+    400.0,
+    600.0
+  ]
+
+  [params.hero]
+  title = "Luscinia Enterprises Association"
+  subtitle = "Building education technology for the developing internet."
+  buttontext = "Visit Aristotle"
+  buttonlink = "https://aristotle.luscinia.ca"
+  image = "illustrations/undraw_rtk.svg"
+  clientlogos = [
+    "microsoft",
+    "google"
+  ]
+
+  [params.section1]
+  title = "Our Mission"
+  subtitle = "Luscinia is determined to provide high quality educational services to anybody that has the drive to learn. We provide students, parents and teachers the tools they need to succeed."
+
+    [[params.section1.tiles]]
+    title = "Create"
+    icon = "undraw_create"
+    text = "We create open-source education technologies."
+    url = "https://github.com/luscinia-enterprises"
+    buttonText = "Visit the Codebase"
+
+    [[params.section1.tiles]]
+    title = "Inform"
+    icon = "undraw_inform"
+    text = "We collect information and report to teachers."
+    url = "https://aristotle.luscinia.ca/about-us"
+    buttonText = "Learn about Aristotle"
+
+    [[params.section1.tiles]]
+    title = "Educate"
+    icon = "undraw_educate"
+    text = "We teach students based on our published findings."
+    url = "https://aristotle.luscinia.ca/register"
+    buttonText = "Register on Aristotle"
+
+  [params.section2]
+  title = "Vision"
+  subtitle = "We have created the ideal pipeline for educational reinforcement algorithms."
+
+    [[params.section2.features]]
+    title = "Powerful and unified interface"
+    text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis."
+    icon = "laptop-globe"
+
+    [[params.section2.features]]
+    title = "Cross-device synchronisation"
+    text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis."
+    icon = "doc-sync"
+
+    [[params.section2.features]]
+    title = "Nomad system"
+    text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis."
+    icon = "mobile-feed"
+
+  [params.section3]
+  title = "Aristotle Education Platform"
+  subtitle = "Cutting edge educational technologies for the developing internet."
+  image = "illustrations/mockups/aristotle-mockup.png"
+  buttonText = "Visit the Alpha"
+  buttonLink = "https://aristotle.luscinia.ca"
+
+  [params.section4]
+  title = "Meet the team"
+  subtitle = "Luscinia is run by a team of dedicated post-secondary students located across Canada."
+
+    [[params.section4.clients]]
+    name = "Jacob Chun"
+    quote = "As the CFO, I am responsible for all matters related to financial planning, accounting records, and long-term investment positions. Partnering with our CTO, we have secured numerous grants over the years from corporations such as Microsoft, Google, and Twilio. In addition to financials, I work as a development lead on full stack web services and maintaining our proprietary resource service API."
+    job = "Treasurer & CFO"
+    img = 3.0
+
+    [[params.section4.clients]]
+    name = "Varun Patel"
+    quote = "As the Chair of the Board of Directors and CTO, I work with various teams within Luscinia to develop our product stack and maintain our technological advancements. I am responsible for the development of the Aristotle Education Platform as a whole as well as maintaining the entire online presence of Luscinia Enterprises Association. I also work in the administrative functions of Luscinia's Board of Directors."
+    job = "Chair of the Board & CTO"
+    img = 2.0
+
+    [[params.section4.clients]]
+    name = "Jerry Xu"
+	quote = "As the lead engineer for Aristotle’s resource services, I spearhead the development of our AI that actively responds to individual performance to serve personalized lesson plans. I am also responsible for creating communicative services that interact between users and our databases, leveraging new technologies to create dynamic experiences for both the company and our users."
+    job = "API Development Lead"
+    img = 1.0
+	
+  [params.footer]
+  logo = "lea-light.png"
+  socialmediatitle = "Follow Us"
+  bulmalogo = false
+
+    [[params.footer.socialmedia]]
+    link = "https://github.com/luscinia-enterprises/"
+    icon = "github"
+
+    [[params.footer.socialmedia]]
+    link = "https://www.linkedin.com/company/luscinia-enterprises"
+    icon = "linkedin"
+
+  [[params.navbar]]
+  title = "Our Team"
+  url = "/our-team"
+  
+  [[params.navbar]]
+  title = "Visit the Aristotle Education Platform"
+  url = "https://aristotle.luscinia.ca"
+
+  [[params.navbar]]
+  title = "Sponsor Us"
+
+    [[params.navbar.sublinks]]
+    title = "GitHub Sponsors"
+    url = "https://github.com/sponsors/luscinia-enterprises"
+
+    [[params.navbar.sublinks]]
+    title = "Contact Us"
+    url = "mailto:finance@luscinia.ca"
