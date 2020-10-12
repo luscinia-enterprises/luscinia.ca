@@ -70,23 +70,18 @@ description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the
 
     [[params.section2.features]]
     title = "Assess"
-    text = "When a student logs in for the first time, a profile is generated including our proprietary learning styles assessment. This generates a cross-curricular baseline of their individual learning style and helps the algorithm determine where to start their studies."
+    text = "When a student logs in for the first time, a profile is generated including our proprietary learning styles assessment system. This generates a cross-curricular baseline of their individual learning style and helps the algorithm determine where to start their studies."
     icon = "laptop-globe"
 
     [[params.section2.features]]
     title = "Analyze"
-    text = "Resources are further analysed and a fit is determined with students. Students will be served the best fitting resources within the teachers selection and their response is taken as feedback for both themselves and the resource."
+    text = "Our library of resources are analysed and a fit is determined with students. Students will be served the best fitting resources within the teachers selection and their response is taken as feedback for both themselves and the resource."
     icon = "doc-sync"
 
     [[params.section2.features]]
-    title = "Adjust"
-    text = "As students complete resources, our algorithm determines their response and will dynamically adjust the profile for each to eventually determine the best fit for each in terms of learning style."
-    icon = "mobile-feed"
-    
-    [[params.section2.features]]
-    title = "Improve"
-    text = "As more resources and students are processed, the algorithm is tuned to different categories of student and resource. This algorithmic tuning ensures that students are always served the most relevant resources and allows us to give feedback to teachers and parents on general performance."
-    icon = "laptop-globe"
+    title = "Adjust & Improve"
+    text = "As students complete resources, our algorithm determines their response and will dynamically adjust their profile in terms of learning style. The algorithm is then tuned to ensure that students are always served the most relevant resources. This allows us to give feedback to teachers and parents on general performance."
+    icon = "mobile-feed" 
 
   [params.section3]
   title = "Aristotle Education Platform"
