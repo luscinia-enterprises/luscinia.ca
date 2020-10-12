@@ -18,7 +18,7 @@ openGraph = true
 description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the Societies Act. Luscinia aims to provide enhanced access to education technologies"
 
   [params.navbarlogo]
-  image = "logos/lea-dark.png"
+  image = "logos/lea.svg"
   link = "/"
 
   [params.font]
@@ -113,7 +113,7 @@ description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the
     img = 1.0
 	
   [params.footer]
-  logo = "lea-light.png"
+  logo = "lea.svg"
   socialmediatitle = "Follow Us"
   bulmalogo = false
 
