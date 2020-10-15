@@ -98,13 +98,13 @@ description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the
     name = "Jacob Chun"
     quote = "As the CFO, I am responsible for all matters related to financial planning, accounting records, and long-term investment positions. Partnering with our CTO, we have secured numerous grants over the years from corporations such as Microsoft, Google, and Twilio. In addition to financials, I work as a development lead on full stack web services and maintaining our proprietary resource service API."
     job = "Treasurer & CFO"
-    img = 3.0
+    img = jacob-chun.jpg
 
     [[params.section4.clients]]
     name = "Varun Patel"
     quote = "As the Chair of the Board of Directors and CTO, I work with various teams within Luscinia to develop our product stack and maintain our technological advancements. I am responsible for the development of the Aristotle Education Platform as a whole as well as maintaining the entire online presence of Luscinia Enterprises Association. I also work in the administrative functions of Luscinia's Board of Directors."
     job = "Chair of the Board & CTO"
-    img = 2.0
+    img = varun-patel.jpg
 
     [[params.section4.clients]]
     name = "Jerry Xu"
