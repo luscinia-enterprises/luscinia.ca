@@ -125,9 +125,9 @@ description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the
     link = "https://www.linkedin.com/company/luscinia-enterprises"
     icon = "linkedin"
 
-#  [[params.navbar]]
-#  title = "Our Team"
-#  url = "/our-team"
+  [[params.navbar]]
+  title = "Our Team"
+  url = "/our-team/"
   
   [[params.navbar]]
   title = "Visit the Aristotle Education Platform"
