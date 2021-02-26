@@ -128,6 +128,10 @@ description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the
   [[params.navbar]]
   title = "Our Team"
   url = "/our-team/"
+
+  [[params.navbar]]
+  title = "Careers"
+  url = "/careers/"
   
   [[params.navbar]]
   title = "Visit the Aristotle Education Platform"
