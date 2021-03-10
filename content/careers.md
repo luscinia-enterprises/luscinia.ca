@@ -17,7 +17,7 @@ We work with the Canada Summer Jobs Program and other grant providers to facilit
 
 We are currently looking for web and curriculum development interns so that we can continue development of our platform and the services we intend to provide. We encourage applicants that are still in high school/graduating shortly as most of the work we need done is easily learned and can help with explorations into computer science, software engineering, psychology and education.
 
-
+Internship pay is fixed at $18/hr.
 These positions will occur between June 28th and September 5th
 
 #### Summer 2021 Web Development Intern
