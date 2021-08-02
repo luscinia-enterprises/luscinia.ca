@@ -10,7 +10,29 @@ Luscinia values our volunteers greatly. Due to funding restrictions of our nonpr
 
 ## Employment
 
-Luscinia is not currently hiring for any positions.
+### Plato Tutor Inventory
+
+We are currently starting up a low-cost tutoring service and are looking for tutors to help ensure capacity is available.
+
+Candidates selected for these positions will start between September and December.
+
+Tutor Responsibilities:
+
+- Teaching note-taking, studying, planning, organization, research methods, and other effective learning skills
+- Helping students to set goals for themselves and motivating them to achieve those goals with praise and rewards
+- Creating, conducting, and grading realistic practice tests and providing feedback on student performance
+- Distributing informative study guides and other teaching materials
+- Delivering lessons virtually using Microsoft Teams
+- Recording information about students or groups of students and making notes about their lesson plans and progress
+
+Requirements
+
+- Academic success as measured by standardized testing (SAT, ACT, Provincial Exams, etc.)
+- Authorization to work in Canada without sponsorship
+- Previous experience working with Elementary and High School level students
+- Previous tutoring experience
+
+We are accepting applications via our [application form](https://forms.office.com/r/FVZDJN0uFZ).
 
 ### Programmer / Curriculum Developer Inventory
 

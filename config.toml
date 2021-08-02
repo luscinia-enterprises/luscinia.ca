@@ -108,7 +108,7 @@ description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the
 
     [[params.section4.clients]]
     name = "Jerry Xu"
-	quote = "As the lead engineer for Aristotle’s resource services, I spearhead the development of our AI that actively responds to individual performance to serve personalized lesson plans. I am also responsible for creating communicative services that interact between users and our databases, leveraging new technologies to create dynamic experiences for both the company and our users."
+	  quote = "As the lead engineer for Aristotle’s resource services, I spearhead the development of our AI that actively responds to individual performance to serve personalized lesson plans. I am also responsible for creating communicative services that interact between users and our databases, leveraging new technologies to create dynamic experiences for both the company and our users."
     job = "API Development Lead"
     img = 3.0
 	
@@ -134,8 +134,12 @@ description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the
   url = "/careers/"
   
   [[params.navbar]]
-  title = "Visit the Aristotle Education Platform"
+  title = "Aristotle"
   url = "https://aristotle.luscinia.ca"
+
+  [[params.navbar]]
+  title = "Plato"
+  url = "https://platolearning.ca"
 
   [[params.navbar]]
   title = "Sponsor Us"
@@ -145,5 +149,5 @@ description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the
     url = "https://github.com/sponsors/luscinia-enterprises"
 
     [[params.navbar.sublinks]]
-    title = "Contact Us"
+    title = "Donation Requests"
     url = "mailto:finance@luscinia.ca"
