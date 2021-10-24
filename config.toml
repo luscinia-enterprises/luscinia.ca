@@ -149,5 +149,9 @@ description = "Luscinia Enterprises Assn. is a BC Registered nonprofit under the
     url = "https://github.com/sponsors/luscinia-enterprises"
 
     [[params.navbar.sublinks]]
-    title = "Donation Requests"
+    title = "Donate"
+    url = "https://luscinia-donate.square.site/"
+
+    [[params.navbar.sublinks]]
+    title = "Corporate Donations"
     url = "mailto:finance@luscinia.ca"
