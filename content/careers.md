@@ -66,7 +66,7 @@ Requirements
 - Entitlement to work in the Province of British Columbia or the Province/Territory where you reside within Canada without sponsorship.
 
 #### Summer 2022 Solutions Architect Intern
-Web Designer Responsibilities:
+Solutions Architect Responsibilities:
 - Integrate development tools and software on Azure
 - Assess existing cloud integrations for security
 - Maintain and create Kubernetes deployment configurations
