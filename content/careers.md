@@ -30,6 +30,7 @@ Please note that we have applied for funding under the Canada Summer Jobs Progra
 
 All Internships are being processed through the same application form linked below:
 
+!!! APPLICATIONS CLOSE May 31 at 11:59PM PDT !!!
 [Summer 2022 Intern Application (Screening)](https://forms.office.com/r/gkvicp0R3G)
 
 &nbsp;
