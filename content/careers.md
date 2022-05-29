@@ -32,7 +32,7 @@ All Internships are being processed through the same application form linked bel
 
 !!! APPLICATIONS CLOSE May 31 at 11:59PM PDT !!!
 
-[Summer 2022 Intern Application (Screening)](https://forms.office.com/r/gkvicp0R3G)
+ [Summer 2022 Intern Application (Screening)](https://forms.office.com/r/gkvicp0R3G) 
 
 &nbsp;
 &nbsp;
